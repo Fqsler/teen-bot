@@ -1,0 +1,12 @@
+{
+"AntiLeaveMute" : false,
+"AntiLink" : false,
+"COMMANDS" : true,
+"MuteCount" : false,
+"MuteOff" :false,
+"OK" : true,
+"CreateAutochannel" : false,
+"DeleteAutochannel" : false,
+"SPYNCH" : false,
+"MUTE" : false
+}
